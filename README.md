@@ -234,7 +234,7 @@ reporting, feature request, or suggestions.
 
 # contributors:
 Please check
-[contributors.md](https://github.com/firedm/FireDM/blob/master/contributors.md)
+[contributors.md](https://github.com/itfidele/FireDM/blob/master/contributors.md)
 for a list of contributors
 
 ---
